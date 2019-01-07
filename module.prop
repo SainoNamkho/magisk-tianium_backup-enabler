@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=enable_titanium_backup
+name=Titanium Backup Enable
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Srik Wanar
+description=Link /system/xbin/su to /sbin/su
 minMagisk=17000
